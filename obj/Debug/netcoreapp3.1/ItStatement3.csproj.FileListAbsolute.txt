@@ -1,0 +1,14 @@
+C:\Users\brook\repos\ItStatement3\ItStatement3\obj\Debug\netcoreapp3.1\ItStatement3.csproj.AssemblyReference.cache
+C:\Users\brook\repos\ItStatement3\ItStatement3\obj\Debug\netcoreapp3.1\ItStatement3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brook\repos\ItStatement3\ItStatement3\obj\Debug\netcoreapp3.1\ItStatement3.AssemblyInfoInputs.cache
+C:\Users\brook\repos\ItStatement3\ItStatement3\obj\Debug\netcoreapp3.1\ItStatement3.AssemblyInfo.cs
+C:\Users\brook\repos\ItStatement3\ItStatement3\obj\Debug\netcoreapp3.1\ItStatement3.csproj.CoreCompileInputs.cache
+C:\Users\brook\repos\ItStatement3\ItStatement3\bin\Debug\netcoreapp3.1\ItStatement3.exe
+C:\Users\brook\repos\ItStatement3\ItStatement3\bin\Debug\netcoreapp3.1\ItStatement3.deps.json
+C:\Users\brook\repos\ItStatement3\ItStatement3\bin\Debug\netcoreapp3.1\ItStatement3.runtimeconfig.json
+C:\Users\brook\repos\ItStatement3\ItStatement3\bin\Debug\netcoreapp3.1\ItStatement3.runtimeconfig.dev.json
+C:\Users\brook\repos\ItStatement3\ItStatement3\bin\Debug\netcoreapp3.1\ItStatement3.dll
+C:\Users\brook\repos\ItStatement3\ItStatement3\bin\Debug\netcoreapp3.1\ItStatement3.pdb
+C:\Users\brook\repos\ItStatement3\ItStatement3\obj\Debug\netcoreapp3.1\ItStatement3.dll
+C:\Users\brook\repos\ItStatement3\ItStatement3\obj\Debug\netcoreapp3.1\ItStatement3.pdb
+C:\Users\brook\repos\ItStatement3\ItStatement3\obj\Debug\netcoreapp3.1\ItStatement3.genruntimeconfig.cache
